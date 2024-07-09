@@ -1,0 +1,10 @@
+body{
+    background: url(./download.jfif);
+    background-size: cover;
+    
+}
+h1{
+    text-align: center;
+    size: 200%;
+    color: azure;
+}
